@@ -9,7 +9,8 @@ Eu sou Alexandre da Cunha, Atualmente estou me desenvolvendo como programador , 
 
 E estou estudando:
 <br>
-	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br>
 <br>
 Conecte-se comigo:
