@@ -9,8 +9,7 @@ Eu sou Alexandre da Cunha, Atualmente estou me desenvolvendo como programador , 
 
 E estou estudando:
 <br>
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-nodejs">
+	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 <br>
 <br>
 Conecte-se comigo:
