@@ -2,6 +2,7 @@
 
 Eu sou Alexandre da Cunha, Atualmente estou me desenvolvendo como programador , e estou apredendo e criando projetos com:
 <br>
+- <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java-script">
@@ -10,13 +11,15 @@ Eu sou Alexandre da Cunha, Atualmente estou me desenvolvendo como programador , 
 E estou estudando:
 <br>
 <br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+- <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+- <img src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <br>
 <br>
 Conecte-se comigo:
 <br>
 <br>
-<a href="https://www.linkedin.com/in/alexandre-junior-498431242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" </a>
+ <a href="https://www.linkedin.com/in/alexandrecbjr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <br>
 <br>  
   
